@@ -2,9 +2,13 @@
 
 A Bitcoin wallet collider that brute forces random wallet addresses
 
+# About This Fork
+
+Updated the chainstate database (March 15 2021)
+
 # Like This Project? Give It A Star
 
-[![](https://img.shields.io/github/stars/Isaacdelly/Plutus.svg)](https://github.com/Isaacdelly/Plutus)
+[![](https://img.shields.io/github/stars/SayWhat69/Plutus.svg)](https://github.com/SayWhat69/Plutus)
 
 # Dependencies
 
