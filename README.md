@@ -10,6 +10,12 @@ Updated the chainstate database (March 15 2021)
 
 [![](https://img.shields.io/github/stars/SayWhat69/Plutus.svg)](https://github.com/SayWhat69/Plutus)
 
+# Wanna Support Me?
+
+BTC: 16vp3EYZoP35MtdquQHxyhxT6ocbNFtw1K
+ETH: 0xD7C174Bd0B8b46700e0570a852180D16f3b16aa5
+LTC: MT2LsA7LHHsP2H84fhXBKWkU2B4ez7MerZ
+
 # Dependencies
 
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
