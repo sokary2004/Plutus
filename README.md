@@ -29,7 +29,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/Isaacdelly/Plutus.git plutus
+$ git clone https://github.com/SayWhat69/Plutus.git plutus
 
 $ cd plutus && pip3 install -r requirements.txt
 ```
@@ -97,4 +97,4 @@ The memory consumption stack trace was made by using <a href="https://pypi.org/p
 
 - [ ] Try to fix Memory Error
 
-<a href="https://github.com/Isaacdelly/Plutus/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/SayWhat69/Plutus/issues">Create an issue</a> so I can add more stuff to improve
