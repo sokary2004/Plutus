@@ -2,9 +2,21 @@
 
 A Bitcoin wallet collider that brute forces random wallet addresses
 
+# About This Fork
+
+Updated the chainstate database (March 15 2021)
+
 # Like This Project? Give It A Star
 
-[![](https://img.shields.io/github/stars/Isaacdelly/Plutus.svg)](https://github.com/Isaacdelly/Plutus)
+[![](https://img.shields.io/github/stars/SayWhat69/Plutus.svg)](https://github.com/SayWhat69/Plutus)
+
+# Wanna Support Me?
+
+```
+BTC: 16vp3EYZoP35MtdquQHxyhxT6ocbNFtw1K
+ETH: 0xD7C174Bd0B8b46700e0570a852180D16f3b16aa5
+LTC: MT2LsA7LHHsP2H84fhXBKWkU2B4ez7MerZ
+```
 
 # Dependencies
 
@@ -17,7 +29,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/Isaacdelly/Plutus.git plutus
+$ git clone https://github.com/SayWhat69/Plutus.git plutus
 
 $ cd plutus && pip3 install -r requirements.txt
 ```
@@ -85,4 +97,4 @@ The memory consumption stack trace was made by using <a href="https://pypi.org/p
 
 - [ ] Try to fix Memory Error
 
-<a href="https://github.com/Isaacdelly/Plutus/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/SayWhat69/Plutus/issues">Create an issue</a> so I can add more stuff to improve
